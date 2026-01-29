@@ -140,6 +140,6 @@
 let value=10;
 let num="10"
 
-console.log("valur ==num :",value == num);
-console.log("valur ===num :",value === num);
-console.log("valur !=num :",value != num);
+console.log("value==num :",value == num);
+console.log("value ===num :",value === num);
+console.log("value !=num :",value != num);
